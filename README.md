@@ -1,2 +1,3 @@
-# TiphanieClassroom
-Tiphanie's classroom
+# Tiphanie's Classroom
+
+Petit coin pour coder :)
